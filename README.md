@@ -67,10 +67,16 @@ The system is designed to:
 ## ⚙️ Key Features
 
 ✅ **LinkedIn Profile Analysis** – Extracts data like education, skills, work experience, and connections.
+
 ✅ **Personalized Job Recommendations** – Suggests the most suitable role based on skills.
+
 ✅ **UDP Client-Server System** – Efficient transfer of LinkedIn URL and job results.
+
 ✅ **Job Scraping & Insights** – Gathers job postings, titles, companies, and trends.
+
 ✅ **Email Communication** – Enables sending messages with checksum verification for reliability.
+
 ✅ **Multicast Networking** – Skill-based group communication & collaboration opportunities.
+
 ✅ **Secure Transmission** – Implements **CRC checksum validation** for error detection.
 
